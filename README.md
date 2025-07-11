@@ -1,18 +1,20 @@
-# Projeto de Banco de dados II
-# adopet 🐾
+# 🐾 Projeto Adopet — Fase 2
 
-Sistema de Adoção de Animais feito com Node.js + MongoDB
+Este repositório contém o código-fonte, scripts e instruções da aplicação Adopet — desenvolvido para a disciplina Banco de dados II, na Universidade do Estado de Santa Catarina.
 
-## 🚀 Como executar
+## 📌 Objetivo
 
-### Requisitos:
-- Node.js
-- MongoDB rodando localmente
+Migrar a aplicação da Fase 1 para utilizar um banco de dados **NoSQL (MongoDB)** e adaptar todas as requisições, consultas e relatórios para operar sobre a nova estrutura.
 
-### Instalação:
+---
 
-```bash
-git clone https://github.com/seuusuario/adopet
-cd adopet
-npm install
-node app.js
+## ⚙️ Tecnologias Utilizadas
+
+- **Java 17**
+- **Spring Boot**
+- **MongoDB**
+- **Maven**
+- **Postman (para testes)**
+
+---
+
